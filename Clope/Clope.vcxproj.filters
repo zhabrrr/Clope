@@ -51,4 +51,7 @@
   <ItemGroup>
     <None Include="agaricus-lepiota.data" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="readme.txt" />
+  </ItemGroup>
 </Project>
